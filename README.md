@@ -1,4 +1,3 @@
-# TestHDM
 
 Une application **Todo List** construite avec **React (Vite + MUI)** pour le frontend et **NestJS + Prisma** pour le backend, utilisant **MySQL** comme base de données.  
 Elle permet de **créer**, **modifier**, **supprimer** et **rechercher** des tâches.
